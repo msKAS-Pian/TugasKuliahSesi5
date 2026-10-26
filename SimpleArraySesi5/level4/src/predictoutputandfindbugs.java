@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Soal15 {
+public class predictandfindbugs {
     public static void main(String[] args) {
         int[] data = {1, 2, 3, 4, 5};
         int[] hasil = new int[data.length];
